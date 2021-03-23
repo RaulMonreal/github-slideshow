@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+Pee is stored in the balls
 Use the left arrow to go back!
